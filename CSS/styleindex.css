@@ -1,0 +1,60 @@
+.header{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header h1{
+    text-transform: capitalize;
+    font-family: Oswald;
+}
+
+.header img{
+    width: 500px;
+}
+
+.header button{
+    height: 50px;
+    width: 150px;
+    font-size: 28px;
+    font-family: Oswald;
+}
+
+.ques{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.ques h1{
+    flex-basis: 100%;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: Oswald;
+}
+
+.ques img{
+    height: 500px;
+    margin: 0 10px;
+}
+.imagehehe{
+    display: flex;
+    justify-content: center;
+}
+
+.ques button{
+    height: 50px;
+    width: 150px;
+    font-size: 28px;
+    font-family: Oswald;
+    margin: 5px 120px;
+}
+
+.button-on{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
